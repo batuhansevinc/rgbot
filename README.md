@@ -1,2 +1,2 @@
-# Remake project for "Gbot.dev" wordpress website transfering to jekyll static website.
+# Remake project for "Gbot.dev" wordpress website transfer to jekyll static website.
 
